@@ -5,3 +5,4 @@ print(type(x))
 
 
  
+print(x)
